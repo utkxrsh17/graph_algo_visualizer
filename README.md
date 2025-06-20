@@ -26,9 +26,3 @@ Interactive, responsive, and theme-aware **Graph Visualizer** built with **React
 [🔗 Live Demo](https://graph-algo-visualizer-tan.vercel.app/)
 
 ---
-
-## 📦 Installation
-
-```
-
-```
