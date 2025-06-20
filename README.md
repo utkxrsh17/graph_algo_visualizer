@@ -4,7 +4,6 @@ Interactive, responsive, and theme-aware **Graph Visualizer** built with **React
 
 ![Preview](https://github.com/user-attachments/assets/35270409-e97e-4341-addd-1d65b735c336)
 
-
 ---
 
 ## ✨ Features
@@ -14,7 +13,7 @@ Interactive, responsive, and theme-aware **Graph Visualizer** built with **React
 - 🧮 **Weighted Graphs** with **edge weights**
 - 🌳 **Minimum Spanning Tree (Prim's Algorithm)**
 - 🔁 **Strongly Connected Components (SCC)**
-- 💫 **Euler path and circuit** 
+- 💫 **Euler path and circuit**
 - 🎨 **Responsive Design**
 - 🌗 **Dark/Light Mode Toggle**
 - 🧠 Smart edge drawing with **node-safe anchoring**
@@ -24,23 +23,12 @@ Interactive, responsive, and theme-aware **Graph Visualizer** built with **React
 
 ## 🧪 Demo
 
-[🔗 Live GitHub Page](https://niravpokiya.github.io/Network-graph-visualizer)
+[🔗 Live Demo](https://graph-algo-visualizer-tan.vercel.app/)
 
 ---
 
 ## 📦 Installation
 
-```bash
-# Clone this repo
-git clone https://github.com/niravpokiya/Network-graph-visualizer.git
+```
 
-# Navigate to project
-cd Network-graph-visualizer
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-
+```
